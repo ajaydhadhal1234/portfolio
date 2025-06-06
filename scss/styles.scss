@@ -690,6 +690,66 @@ footer {
 
 /*
     -------------------------------
+    ----- 9. new Projects Styles -----
+    -------------------------------
+*/
+
+.project1-container {
+    display: flex;
+    justify-content: center;
+}
+
+.project1 {
+    background: #fff;
+    border-radius: 12px;
+    box-shadow: 0 16px 48px rgba(0, 0, 0, 0.15);
+    padding: 30px;
+    display: inline-block;
+    text-align: center;
+}
+
+.project1-image {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px; /* space between images */
+    margin-bottom: 20px;
+}
+
+// .project1-image img {
+//     max-width: 160px;
+//     max-height: 100px;
+//     width: 100%;
+//     height: auto;
+//     object-fit: cover;
+// }
+
+// .project1-info h3 {
+//     font-size: 1.5em;
+//     color: #333;
+//     margin: 10px 0;
+// }
+
+// .project1-info p {
+//     font-size: 1rem;
+//     color: #555;
+//     margin: 10px 0 20px;
+// }
+
+// .project1-info a {
+//     display: inline-block;
+//     color: #007bff;
+//     text-decoration: none;
+//     font-weight: 600;
+// }
+
+// .project1-info a:hover {
+//     text-decoration: underline;
+// }
+
+
+/*
+    -------------------------------
     ----- 9. Skills Styles -----
     -------------------------------
 */
